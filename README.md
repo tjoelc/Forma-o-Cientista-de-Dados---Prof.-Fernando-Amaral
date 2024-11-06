@@ -1,14 +1,14 @@
 <p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/></p>
 <img src="https://github.com/tjoelc/Forma-o-Cientista-de-Dados---Prof.-Fernando-Amaral/blob/main/Sem%20t%C3%ADtulo.png" alt="Formação CIentista de Dados">
 
-**[1- Apresentação](url)**
-**[2- Introdução ao Python](url)**
-**[3- Limpeza e tratamento de Dados](url)**
-**[4- Gráficos, Visualização e Dashboards](url)**
-**[5- ](url) **
+#[1- Apresentação](url)
+#[2- Introdução ao Python](url)
+#[3- Limpeza e tratamento de Dados](url)
+#[4- Gráficos, Visualização e Dashboards](url)
+#[5- ](url) 
 
 ## [1- Apresentação](url):
-Aqui você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Data Analysis. 
+Aqui você encontra os notebooks dos projetos na área de Data Science, Machine Learning e Data Analysis. 
 
 * **Machine Learning para prever se uma pessoa recebe mais de 50K (dólares) no ano:**
 *   https://bit.ly/39edTmM
