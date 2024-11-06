@@ -12,7 +12,9 @@ Aqui você encontra os notebooks dos projetos na área de Data Science, Machine 
 
 [4- Gráficos, Visualização e Dashboards](url)
 
-[5- ](url) 
+[5- Estatística I](url) 
+
+
 * **Machine Learning para prever se uma pessoa recebe mais de 50K (dólares) no ano:**
 *   https://bit.ly/39edTmM
 * **Extraindo insights da base de dados Black Friday através da Exploratory Data Analysis(EDA):**
