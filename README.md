@@ -4,7 +4,7 @@
 
 
 ## 1- Apresentação:
-Aqui você encontra os notebooks dos projetos na área de Data Science, Machine Learning e Data Analysis.
+Aqui você encontra os notebooks dos projetos do curso e os referidos as áreas de Data Science, Machine Learning e Data Analysis.
 
 [2- Introdução ao Python](url)
 
