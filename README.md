@@ -14,6 +14,8 @@ Aqui você encontra os notebooks dos projetos na área de Data Science, Machine 
 
 [5- Estatística I](url) 
 
+[6- Estatística II](url) 
+
 
 * **Machine Learning para prever se uma pessoa recebe mais de 50K (dólares) no ano:**
 *   https://bit.ly/39edTmM
