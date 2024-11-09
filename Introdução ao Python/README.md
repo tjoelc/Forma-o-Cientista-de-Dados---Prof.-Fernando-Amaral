@@ -7,4 +7,4 @@
 ## 1- Apresentação:
 Aqui você encontra os notebooks dos projetos do curso e os referidos as áreas de Data Science, Machine Learning e Data Analysis.
 
-[2- Introdução ao Python](https://github.com/tjoelc/Forma-o-Cientista-de-Dados---Prof.-Fernando-Amaral/tree/main/Introdu%C3%A7%C3%A3o%20ao%20Python)
+[Página inicial]([https://github.com/tjoelc/Forma-o-Cientista-de-Dados---Prof.-Fernando-Amaral/tree/main/Introdu%C3%A7%C3%A3o%20ao%20Python](https://github.com/tjoelc/Forma-o-Cientista-de-Dados---Prof.-Fernando-Amaral/tree/main))
