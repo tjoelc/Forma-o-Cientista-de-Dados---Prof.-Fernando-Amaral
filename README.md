@@ -12,7 +12,7 @@ Aqui você encontra os notebooks dos projetos do curso e os referidos as áreas 
 
 [4- Gráficos, Visualização e Dashboards](https://github.com/tjoelc/Forma-o-Cientista-de-Dados---Prof.-Fernando-Amaral/tree/main/Gr%C3%A1ficos%2C%20Visualiza%C3%A7%C3%A3o%20e%20Dashboards)
 
-[5- Estatística I](url) 
+[5- Estatística I](https://github.com/tjoelc/Forma-o-Cientista-de-Dados---Prof.-Fernando-Amaral/tree/main/Estat%C3%ADstica%20I) 
 
 [6- Estatística II](url) 
 
