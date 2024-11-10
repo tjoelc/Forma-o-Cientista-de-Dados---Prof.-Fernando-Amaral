@@ -8,7 +8,7 @@ Aqui você encontra os notebooks dos projetos do curso e os referidos as áreas 
 
 [2- Introdução ao Python](https://github.com/tjoelc/Forma-o-Cientista-de-Dados---Prof.-Fernando-Amaral/tree/main/Introdu%C3%A7%C3%A3o%20ao%20Python)
 
-[3- Limpeza e tratamento de Dados](url)
+[3- Limpeza e tratamento de Dados](https://github.com/tjoelc/Forma-o-Cientista-de-Dados---Prof.-Fernando-Amaral/tree/main/Limpeza%20e%20Tratamento%20de%20dados)
 
 [4- Gráficos, Visualização e Dashboards](url)
 
