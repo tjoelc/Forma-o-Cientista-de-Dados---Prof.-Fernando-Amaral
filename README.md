@@ -10,7 +10,7 @@ Aqui você encontra os notebooks dos projetos do curso e os referidos as áreas 
 
 [3- Limpeza e tratamento de Dados](https://github.com/tjoelc/Forma-o-Cientista-de-Dados---Prof.-Fernando-Amaral/tree/main/Limpeza%20e%20Tratamento%20de%20dados)
 
-[4- Gráficos, Visualização e Dashboards](url)
+[4- Gráficos, Visualização e Dashboards](https://github.com/tjoelc/Forma-o-Cientista-de-Dados---Prof.-Fernando-Amaral/tree/main/Gr%C3%A1ficos%2C%20Visualiza%C3%A7%C3%A3o%20e%20Dashboards)
 
 [5- Estatística I](url) 
 
