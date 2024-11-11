@@ -1,7 +1,3 @@
-
-
-
-
 ## 1- Introdução ao Python exercicios com notebook:
 
 
