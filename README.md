@@ -14,7 +14,7 @@ Aqui você encontra os notebooks dos projetos do curso e os referidos as áreas 
 
 [5- Estatística I](https://github.com/tjoelc/Forma-o-Cientista-de-Dados---Prof.-Fernando-Amaral/tree/main/Estat%C3%ADstica%20I) 
 
-[6- Estatística II](url) 
+[6- Estatística II](https://github.com/tjoelc/Forma-o-Cientista-de-Dados---Prof.-Fernando-Amaral/tree/main/Estat%C3%ADstica%20II) 
 
 
 * **Machine Learning para prever se uma pessoa recebe mais de 50K (dólares) no ano:**
