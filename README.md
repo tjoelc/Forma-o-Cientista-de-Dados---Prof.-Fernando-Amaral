@@ -16,7 +16,7 @@ Aqui você encontra os notebooks dos projetos do curso e os referidos as áreas 
 
 [6- Estatística II](https://github.com/tjoelc/Forma-o-Cientista-de-Dados---Prof.-Fernando-Amaral/tree/main/Estat%C3%ADstica%20II) 
 
-[7- Regressão Linear](https://github.com/tjoelc/Forma-o-Cientista-de-Dados---Prof.-Fernando-Amaral/tree/main/Estat%C3%ADstica%20II) 
+[7- Regressão Linear](https://github.com/tjoelc/Forma-o-Cientista-de-Dados---Prof.-Fernando-Amaral/tree/main/Regress%C3%A3o%20Linear) 
 
 [8- Regressão Logistica](https://github.com/tjoelc/Forma-o-Cientista-de-Dados---Prof.-Fernando-Amaral/tree/main/Estat%C3%ADstica%20II) 
 
